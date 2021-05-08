@@ -1,0 +1,9 @@
+.my-auto{
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+a {text-decoration: none; }
+i:hover {color: red !important;
+  cursor: pointer;}
+
